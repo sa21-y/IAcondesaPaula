@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg135"
+   inkscape:version="1.2.1 (9c6d41e410, 2022-07-14)"
+   sodipodi:docname="dibujo 6.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview137"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.73851712"
+     inkscape:cx="404.18833"
+     inkscape:cy="412.98975"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs132" />
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#d40000;stroke-width:0.133741"
+       id="rect732"
+       width="54.097702"
+       height="47.290703"
+       x="74.160431"
+       y="66.995163" />
+    <path
+       style="fill:#ececec;stroke-width:0.765874"
+       d="M 100.14361,66.636911 74.160433,100.31363 100.13753,81.909817 127.89988,101.34169 Z"
+       id="path474"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       style="fill:#f2f2f2;stroke-width:0.765874"
+       d="M 100.14361,85.442527 73.085644,114.82016 100.49579,99.640651 129.69119,115.1317 Z"
+       id="path474-0"
+       sodipodi:nodetypes="ccccc" />
+    <text
+       xml:space="preserve"
+       style="font-weight:bold;font-size:14.1111px;font-family:sans-serif;-inkscape-font-specification:'sans-serif, Bold';fill:#000000;stroke-width:0.254"
+       x="75.235222"
+       y="124.67551"
+       id="text863"><tspan
+         sodipodi:role="line"
+         id="tspan861"
+         style="fill:#000000;stroke-width:0.254"
+         x="75.235222"
+         y="124.67551">PAULA</tspan></text>
+  </g>
+</svg>
